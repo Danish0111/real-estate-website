@@ -1,6 +1,16 @@
 import React from 'react'
 
-const ServiceCard = ({service}) => {
+type Service = {
+  title: string;
+  description: string;
+  icon: string;
+};
+
+type ServiceCardProps = {
+  service: Service;
+};
+
+const ServiceCard = ({ service }: ServiceCardProps) => {
     return (
         <div className="rounded-2xl p-6 shadow-lg border border-white/10 hover:border-black transition">
 
