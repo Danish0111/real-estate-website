@@ -16,7 +16,7 @@ const page = () => {
             title: "Palm Residency 3BHK",
             location: "Downtown",
             tag: "Ready Soon",
-            image: "https://www.shutterstock.com/image-photo/appartment-building-highrise-residential-huerth-260nw-1500885059.jpg",
+            image: "/apartment2.jpg",
             description: "A New Era of Design-Led Waterfront Living — Coming Soon to Dubai Islands SIORA is the upco...",
         },
         {
@@ -24,7 +24,7 @@ const page = () => {
             title: "Skyline Heights",
             location: "City Center",
             tag: "New Launch",
-            image: "https://static.vecteezy.com/system/resources/previews/013/226/569/large_2x/new-modern-complex-of-residential-appartment-in-europe-photo.jpg",
+            image: "/apartment3.jpg",
             description: "A New Era of Design-Led Waterfront Living — Coming Soon to Dubai Islands SIORA is the upco...",
         },
         {
@@ -32,7 +32,7 @@ const page = () => {
             title: "Serene Garden 2BHK",
             location: "Discovery Gardens",
             tag: "Off Plan",
-            image: "https://assets-news.housing.com/news/wp-content/uploads/2022/03/31010142/Luxury-house-design-Top-10-tips-to-add-luxury-to-your-house-FEATURE-compressed-686x400.jpg",
+            image: "/apartment4.jpg",
             description: "A New Era of Design-Led Waterfront Living — Coming Soon to Dubai Islands SIORA is the upco...",
         },
         {
@@ -48,7 +48,7 @@ const page = () => {
             title: "Skyline Heights",
             location: "City Center",
             tag: "New Launch",
-            image: "https://is1-2.housingcdn.com/4f2250e8/64f9c7b270f415688c5b2606b6ae321b/v0/fs/ambica_uttam_appartment-maninagar_ahmedabad-ahmedabad-ambica_builders_ahmedabad.jpeg",
+            image: "/apartment5.jpg",
             description: "A New Era of Design-Led Waterfront Living — Coming Soon to Dubai Islands SIORA is the upco...",
         },
     ];
